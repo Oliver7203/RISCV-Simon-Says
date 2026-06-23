@@ -41,7 +41,7 @@ FPGA 晶片型號請搜尋並選擇 xc7a35tcpg236-1。
 將本倉庫 src/ 目錄下的所有 .v 檔案加入 Design Sources。
 將本倉庫 constrs/ 目錄下的 basys3.xdc 檔案加入 Constraints。
 
-步驟 2：合成與燒錄
+步驟 2：
 點擊 Vivado 左側導覽列的 Generate Bitstream，等待 Synthesis 與 Implementation 跑完。
 將 Basys 3 開發板透過 Micro-USB 連接至電腦，並開啟電源。
 點選 Open Hardware Manager -> Open Target -> Auto Connect。
